@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kiory Blog</string>
+    <string name="action_share">Compartir</string>
+    <string name="url_base_path">http://kiory.com/buzzblog/?json=get_recent_posts</string>
+
+    <string name="title_activity_detail_view">DetailView</string>
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">com.kiory.blog</string>
+    <string name="content_authority">com.kiory.blog</string>
+
+</resources>
