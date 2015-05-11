@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KioryBlog.iml" filepath="$PROJECT_DIR$/KioryBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KioryBlogAndroid.iml" filepath="$PROJECT_DIR$/KioryBlogAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
